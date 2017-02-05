@@ -1,6 +1,6 @@
 # blog
 
-> A blog powered node.js and vue.js
+> A blog powered by node.js and vue.js
 
 ## Build Setup
 
